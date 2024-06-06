@@ -7,7 +7,7 @@ This package provides React Native compatible implementations of Node core modul
 ## Installation
 
 ```
-"@node-libs-react-native": "git+ssh://git@bitbucket.org/lifejourney/myjourney-react-components.git"
+"@node-libs-react-native": "git+ssh://git@github.com:hien-dev/node-libs-react-native.git"
 ```
 
 ## Usage
