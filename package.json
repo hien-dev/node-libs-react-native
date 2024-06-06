@@ -1,11 +1,11 @@
 {
   "name": "node-libs-react-native",
   "version": "1.2.1",
-  "author": "Tobias Koppers @sokra",
+  "author": "hien.dev",
   "description": "Node core modules for React Native",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/parshap/node-libs-react-native.git"
+    "url": "git+https://github.com/hien-dev/node-libs-react-native.git"
   },
   "dependencies": {
     "assert": "^1.4.1",
@@ -30,16 +30,15 @@
     "timers-browserify": "^2.0.2",
     "tty-browserify": "0.0.0",
     "url": "^0.11.0",
-    "util": "^0.12.4",
-    "vm-browserify": "^1.1.2"
+    "util": "^0.12.4"
   },
-  "homepage": "http://github.com/parshap/node-libs-react-native",
+  "homepage": "https://github.com/hien-dev/node-libs-react-native",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/parshap/node-libs-react-native/issues"
+    "url": "https://github.com/hien-dev/node-libs-react-native/issues"
   }
 }
