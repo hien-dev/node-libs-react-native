@@ -7,7 +7,7 @@ This package provides React Native compatible implementations of Node core modul
 ## Installation
 
 ```
-npm install --save node-libs-react-native
+"@node-libs-react-native": "git+ssh://git@bitbucket.org/lifejourney/myjourney-react-components.git"
 ```
 
 ## Usage
