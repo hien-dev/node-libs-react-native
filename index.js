@@ -34,5 +34,5 @@ exports.tls							= null;
 exports.tty							= require.resolve('tty-browserify');
 exports.url							= require.resolve('url/');
 exports.util						= require.resolve('util/util.js');
-exports.vm							= require.resolve('./mock/vm';)
+exports.vm							= require.resolve('vm-browserify');
 exports.zlib						= require.resolve('browserify-zlib');
